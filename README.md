@@ -87,7 +87,6 @@ List papers relevant to HOI HSI. Categorize them if necessary.
 
 List benchmarks and datasets specific to HOI HSI.
 
-**Closed-loop**
 - [Example Dataset 1](#)
   - Description of Dataset 1.
 - [Example Dataset 2](#)
