@@ -1,10 +1,11 @@
+
 <div id="top">
 
-# End-to-end Autonomous Driving
+# HOI HSI Survey
 
-> **This repo is all you need for end-to-end autonomous driving research.** We present awesome talks, comprehensive paper collections, benchmarks, and challenges.
+> **This repo is all you need for HOI HSI research.** We present awesome talks, comprehensive paper collections, benchmarks, and challenges.
 
-<!-- ![](https://img.shields.io/badge/Record-137-673ab7.svg)
+<!-- ![](https://img.shields.io/badge/Record-XXX-673ab7.svg)
 ![](https://img.shields.io/badge/License-MIT-lightgrey.svg) -->
 
 ## Table of Contents
@@ -22,24 +23,21 @@
 
 ## At a Glance
 
-The autonomous driving community has witnessed a rapid growth in approaches that embrace an end-to-end algorithm framework, utilizing raw sensor input to generate vehicle motion plans, instead of concentrating on individual tasks such as detection and motion prediction. In this survey, we provide a comprehensive analysis of more than 270 papers on the motivation, roadmap, methodology, challenges, and future trends in end-to-end autonomous driving. More details can be found in our survey paper.
+Provide a brief overview of HOI HSI here. Explain its importance, challenges, and current trends in the field. Highlight the aim of your survey.
 
-> [**End-to-end Autonomous Driving: Challenges and Frontiers**](https://arxiv.org/abs/2306.16927)
->
-> [Li Chen](https://scholar.google.com/citations?user=ulZxvY0AAAAJ&hl=en&authuser=1)<sup>1,2</sup>, [Penghao Wu](https://penghao-wu.github.io)<sup>1</sup>, [Kashyap Chitta](https://kashyap7x.github.io/)<sup>3,4</sup>, [Bernhard Jaeger](https://kait0.github.io/)<sup>3,4</sup>, [Andreas Geiger](https://www.cvlibs.net/)<sup>3,4</sup>, and [Hongyang Li](https://lihongyang.info/)<sup>1,2</sup>
-> 
-> <sup>1</sup> OpenDriveLab, Shanghai AI Lab, <sup>2</sup> University of Hong Kong, <sup>3</sup> University of Tübingen, <sup>4</sup> Tübingen AI Center
->
+> Example Paper: **[Title of Your Main Paper](#)**
+
+> Example Authors: First Author<sup>1</sup>, Second Author<sup>2</sup>
 
 <br/>
 
-![](assets/overview.jpg)
+<!-- ![](assets/overview.jpg) -->
 
 <br/>
 
-``
+```
 If you find some useful related materials, shoot us an email or simply open a PR!
-``
+```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -47,33 +45,20 @@ If you find some useful related materials, shoot us an email or simply open a PR
 ## Learning Materials for Beginners
   
 **Online Courses**
-- [Lecture: Self-Driving Cars](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/), Andreas Geiger, University of Tübingen, Germany
-- [Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars), University of Toronto, Coursera
-- [The Complete Self-Driving Car Course - Applied Deep Learning](https://www.udemy.com/course/applied-deep-learningtm-the-complete-self-driving-car-course/), Udemy
-- [Self-Driving Car Engineer Nanodegree Program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013), Udacity
-
+- [Example Course Title](#), Example Institution, Example Platform
+- Add more courses relevant to HOI HSI.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
   
 ## Workshops and Talks
 
 **Workshops (recent years)**
-- [CVPR 2024] [Foundation Models for Autonomous Systems](https://opendrivelab.com/cvpr2024/workshop/)
-- [CVPR 2024] [Tutorial: End-to-End Autonomy: A New Era of Self-Driving](https://wayve.ai/cvpr-e2ead-tutorial/)
-- [CVPR 2024] [Tutorial: Towards Building AGI in Autonomy and Robotics](https://opendrivelab.com/cvpr2024/tutorial/)
-- [CVPR 2023] [Workshop on End-to-end Autonomous Driving](https://opendrivelab.com/e2ead/cvpr23.html)
-- [CVPR 2023] [End-to-End Autonomous Driving: Perception, Prediction, Planning and Simulation](https://e2ead.github.io/2023.html)
-- [ICRA 2023] [Scalable Autonomous Driving](https://sites.google.com/view/icra2023av/home?authuser=0)
+- Add recent workshops relevant to HOI HSI.
 
 **Workshops (previous years)**
 <details>
 
-  - [NeurIPS 2022] [Machine Learning for Autonomous Driving](https://ml4ad.github.io/)
-  - [IROS 2022] [Behavior-driven Autonomous Driving in Unstructured Environments](https://gamma.umd.edu/workshops/badue22/)
-  - [ICRA 2022] [Fresh Perspectives on the Future of Autonomous Driving Workshop](https://www.self-driving-cars.org/)
-  - [NeurIPS 2021] [Machine Learning for Autonomous Driving](https://ml4ad.github.io/2021/)
-  - [NeurIPS 2020] [Machine Learning for Autonomous Driving](https://ml4ad.github.io/2020/)
-  - [CVPR 2020] [Workshop on Scalability in Autonomous Driving](https://sites.google.com/view/cvpr20-scalability)
+  - Add workshops from earlier years.
 
 </details>
 </br>
@@ -82,84 +67,44 @@ If you find some useful related materials, shoot us an email or simply open a PR
 <details>
   <summary>Relevant talks from other workshops</summary>
   
-  - [Common Misconceptions in Autonomous Driving](https://www.youtube.com/watch?v=x_42Fji1Z2M) - Andreas Geiger, Workshop on Autonomous Driving, CVPR 2023
-  - [Learning Robust Policies for Self-Driving](https://www.youtube.com/watch?v=rm-1sPQV4zg) - Andreas Geiger, AVVision: Autonomous Vehicle Vision Workshop, ECCV 2022
-  - [Autonomous Driving: The Way Forward](https://www.youtube.com/watch?v=XmtTjqimW3g) -  Vladlen Koltun, Workshop on AI for Autonomous Driving, ICML 2020
-  - [Feedback in Imitation Learning: Confusion on Causality and Covariate Shift](https://www.youtube.com/watch?v=4VAwdCIBTG8) -  Sanjiban Choudhury and Arun Venkatraman, Workshop on AI for Autonomous Driving, ICML 2020
-  
+  - Add links to relevant talks.
+
 </details>
   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Paper Collection
-We list key challenges from a wide span of candidate concerns, as well as trending methodologies. Please refer to [this page](./papers.md) for the full list, and the [survey paper](https://arxiv.org/abs/2306.16927) for detailed discussions.
+List papers relevant to HOI HSI. Categorize them if necessary.
 
-- [Survey](./papers.md#survey)
-- [Language / VLM for Driving](./papers.md#language--vlm-for-driving)
-  - [Review for VLM in Driving](./papers.md#review-for-vlm-in-driving)
-  - [Papers for VLM in Driving](./papers.md#papers-for-vlm-in-driving)
-- [World Model & Model-based RL](./papers.md#world-model--model-based-rl)
-- [Multi-sensor Fusion](./papers.md#multi-sensor-fusion)
-- [Multi-task Learning](./papers.md#multi-task-learning)
-- [Interpretability](./papers.md#interpretability)
-  - [Review for Interpretability](./papers.md#review-for-interpretability)
-  - [Attention Visualization](./papers.md#attention-visualization)
-  - [Interpretable Tasks](./papers.md#interpretable-tasks)
-  - [Cost Learning](./papers.md#cost-learning)
-  - [Linguistic Explainability](./papers.md#linguistic-explainability)
-  - [Uncertainty Modeling](./papers.md#uncertainty-modeling)
-  - [Counterfactual Explanations and Causal Inference](./papers.md#counterfactual-explanations-and-causal-inference)
-- [Visual Abstraction / Representation Learning](./papers.md#visual-abstraction--representation-learning)
-- [Policy Distillation](./papers.md#policy-distillation)
-- [Causal Confusion](./papers.md#causal-confusion)
-- [Robustness](./papers.md#robustness)
-  - [Long-tailed Distribution](./papers.md#long-tailed-distribution)
-  - [Covariate Shift](./papers.md#covariate-shift)
-  - [Domain Adaptation](./papers.md#domain-adaptation)
-- [Affordance Learning](./papers.md#affordance-learning)
-- [BEV](./papers.md#bev)
-- [Transformer](./papers.md#transformer)
-- [V2V Cooperative](./papers.md#v2v-cooperative)
-- [Distributed RL](./papers.md#distributed-rl)
-- [Data-driven Simulation](./papers.md#data-driven-simulation)
-  - [Parameter Initialization](./papers.md#parameter-initialization)
-  - [Traffic Simulation](./papers.md#traffic-simulation)
-  - [Sensor Simulation](./papers.md#sensor-simulation)
+- [Category 1](./papers.md#category-1)
+  - [Paper Title](./papers.md#paper-title)
+- [Category 2](./papers.md#category-2)
+  - [Paper Title](./papers.md#paper-title)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Benchmarks and Datasets
 
+List benchmarks and datasets specific to HOI HSI.
+
 **Closed-loop**
-- [CARLA](https://leaderboard.carla.org/leaderboard/)
-  - [Leaderboard 1.0](https://leaderboard.carla.org/get_started_v1/)
-  - [Leaderboard 2.0](https://leaderboard.carla.org/get_started/)
-- [nuPlan](https://www.nuscenes.org/nuplan)
-  - [Leaderboard](https://eval.ai/web/challenges/challenge-page/1856/overview) (inactive after the CVPR 2023 challege)
-  - [NAVSIM](https://github.com/autonomousvision/navsim)
+- [Example Dataset 1](#)
+  - Description of Dataset 1.
+- [Example Dataset 2](#)
+  - Description of Dataset 2.
 
 <details>
   <summary>Open-loop</summary>
   
-- [nuScenes](https://www.nuscenes.org/nuscenes)
-- [nuPlan](https://www.nuscenes.org/nuplan)
-- [Argoverse](https://www.argoverse.org/av2.html)
-- [Waymo Open Dataset](https://waymo.com/open/)
-  
+- Add more datasets if relevant.
+
 </details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Competitions / Challenges
 
-- [End-to-End Driving at Scale](https://opendrivelab.com/challenge2024/#end_to_end_driving_at_scale), Foundation Models for Autonomous Systems, CVPR 2024
-- [CARLA Autonomous Driving Challenge](https://opendrivelab.com/challenge2024/#carla), Foundation Models for Autonomous Systems, CVPR 2024
-- [nuPlan planning](https://opendrivelab.com/AD23Challenge.html#nuplan_planning), Workshop on End-to-end Autonomous Driving, CVPR 2023
-- [CARLA Autonomous Driving Challenge 2022](https://ml4ad.github.io/#challenge), Machine Learning for Autonomous Driving, NeurIPS 2022
-- [CARLA Autonomous Driving Challenge 2021](https://ml4ad.github.io/2021/#challenge), Machine Learning for Autonomous Driving, NeurIPS 2021
-- [CARLA Autonomous Driving Challenge 2020](https://ml4ad.github.io/2020/#challenge), Machine Learning for Autonomous Driving, NeurIPS 2020
-- [Learn-to-Race Autonomous Racing Virtual Challenge](https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge), 2022
-- [INDY Autonomous Challenge](https://www.indyautonomouschallenge.com/)
+- Add details of competitions or challenges related to HOI HSI.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
   
@@ -169,17 +114,17 @@ Thank you for all your contributions. Please make sure to read the [contributing
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## License
-End-to-end Autonomous Driving is released under the [MIT license](./LICENSE).
+HOI HSI Survey is released under the [MIT license](./LICENSE).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Citation
 If you find this project useful in your research, please consider citing:
 ```BibTeX
-@article{chen2023e2esurvey,
-  title={End-to-end Autonomous Driving: Challenges and Frontiers},
-  author={Chen, Li and Wu, Penghao and Chitta, Kashyap and Jaeger, Bernhard and Geiger, Andreas and Li, Hongyang},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+@article{yourcitation2024,
+  title={Title of Your Survey},
+  author={Your Name and Others},
+  journal={Relevant Journal},
   year={2024}
 }
 ```
@@ -187,8 +132,8 @@ If you find this project useful in your research, please consider citing:
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contact
-Primary contact: `hy@opendrivelab.com`. You can also contact: `lichen@opendrivelab.com`.
+Primary contact: `your.email@example.com`. 
 
-Join [OpenDriveLab Slack](https://opendrivelab.slack.com/join/shared_invite/zt-2ft3dfjoz-6XErfBts4s_8Fen88wO4Jg#/shared-invite/email) to chat with the commuty! Slack channel: `#e2ead`.
+Join [Your Community Link](#) to chat with the community! 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
