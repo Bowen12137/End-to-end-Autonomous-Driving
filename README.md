@@ -92,12 +92,6 @@ List benchmarks and datasets specific to HOI HSI.
 - [Example Dataset 2](#)
   - Description of Dataset 2.
 
-<details>
-  <summary>Open-loop</summary>
-  
-- Add more datasets if relevant.
-
-</details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
